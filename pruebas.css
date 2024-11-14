@@ -1,0 +1,20 @@
+p{
+    color: yellow;
+    font-size: xx-large;
+}
+
+.fancy{
+    color: green;
+}
+
+.plain{
+    color: black;
+}
+
+.box{
+    color: red;
+}
+
+#box{
+    color: yellow
+}
