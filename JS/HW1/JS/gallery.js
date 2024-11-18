@@ -1,5 +1,3 @@
-/*Name this external file gallery.js*/
-
 function upDate(previewPic){
     big_pic = document.getElementById("image");
     big_pic.innerHTML = previewPic.alt;
